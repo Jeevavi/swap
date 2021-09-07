@@ -13,7 +13,7 @@ public class Swap {
     x = y;
     y=temp;
  
-    System.out.println("After swap");
+    System.out.println("gp arun");
     System.out.println("x="+x);
     System.out.println("y="+y);
    }
